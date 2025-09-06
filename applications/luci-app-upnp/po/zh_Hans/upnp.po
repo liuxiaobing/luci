@@ -233,8 +233,8 @@ msgid ""
 msgstr "检测公网 IPv4 地址，以便用于不受限制的全锥形/一对一 NAT"
 
 #: applications/luci-app-upnp/root/usr/share/luci/menu.d/luci-app-upnp.json:3
-msgid "UPnP IGD & PCP"
-msgstr "UPnP IGD 和 PCP"
+msgid "UPnP"
+msgstr "UPnP"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:87
 msgid "UPnP IGD & PCP/NAT-PMP Service"
